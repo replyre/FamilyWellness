@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/FamilyWellness/static/css/main.0c92d401.css",
+    "main.js": "/FamilyWellness/static/js/main.be25ed80.js",
+    "static/js/453.ae25abc6.chunk.js": "/FamilyWellness/static/js/453.ae25abc6.chunk.js",
+    "static/media/carousal1.jpg": "/FamilyWellness/static/media/carousal1.484f9c89bd1ae8fea3df.jpg",
+    "static/media/carousal2.jpg": "/FamilyWellness/static/media/carousal2.255ad3d5b6b105bb370e.jpg",
+    "static/media/logo.svg": "/FamilyWellness/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/FamilyWellness/index.html",
+    "main.0c92d401.css.map": "/FamilyWellness/static/css/main.0c92d401.css.map",
+    "main.be25ed80.js.map": "/FamilyWellness/static/js/main.be25ed80.js.map",
+    "453.ae25abc6.chunk.js.map": "/FamilyWellness/static/js/453.ae25abc6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c92d401.css",
+    "static/js/main.be25ed80.js"
+  ]
+}
